@@ -1,6 +1,0 @@
-loguru
-mysql-connector-python
-pandas
-redshift-connector
-flask
-Flask-Cors
